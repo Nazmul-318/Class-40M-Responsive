@@ -1,0 +1,60 @@
+@media all and (max-width:1200px) {  
+}
+
+@media all and (max-width:992px) {
+
+  .portfolio-section {
+    padding-bottom: 5rem;
+    margin-top: -5rem;
+  }
+    .card { 
+    margin-bottom: 2rem;
+  }
+  .programmer-box {  
+    margin-bottom: 8rem;
+  }
+  .programmer-box img {
+    width: 8rem;
+    height: 8rem;   
+    top: -5.5rem;
+    left: 1.5rem;
+  }
+  .contact-touch {   
+    margin: auto;
+  }
+  .card-text {
+    margin: auto;
+  }
+
+  .navbar-nav .dropdown-menu{
+      position: absolute;
+  }
+  .dropdown-menu{
+    margin-top: -6rem;
+      left: 6rem;
+  }
+  
+ 
+}
+@media all and (max-width:768px) {
+
+  .contact-touch {    
+    margin-top: -6rem !important;
+    text-align: center;
+  }
+  .about-image img {   
+    margin: auto;
+  }
+ 
+}
+@media all and (max-width:578px) {
+  .about-contant {   
+    margin: auto;
+    padding: 2rem;
+  }
+ 
+}
+@media all and (max-width:418px) {
+ 
+  
+}
